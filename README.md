@@ -1,5 +1,5 @@
 
-# Medium Article Word Count Analysis (<a href="https://nbviewer.jupyter.org/github/zavonn/Medium_Post_Analysis/blob/master/MediumPostAnalysis.ipynb">Interactive Jupyter Notebook available Here</a>)
+# Medium Article Word Count Analysis (<a href="https://nbviewer.jupyter.org/github/zavonn/Medium_Post_Analysis/blob/master/MediumPostAnalysis.ipynb">Interactive Jupyter Notebook</a>)
 
 Recently I stumbled upon the <a href="https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content">Medium Articles (with Content)</a> Kaggle Dataset. This dataset includes all articles on Medium with the tags AI, Machine Learning, Datascience or Artificial Intelligence. The posts were scraped from September 2017 to September 2018, and in total, over 72,000 articles, first published between 2010 and 2018 are included in the collection.
 
